@@ -1,0 +1,16 @@
+Equation: 3+-5*(10-2)
+Infix: 3+-5*(10-2), Postfix: 3 -5 10 2 - * + 
+Result: -37
+
+Equation: 1+1+1+1*8
+Infix: 1+1+1+1*8, Postfix: 1 1 + 1 + 1 8 * + 
+Result: 11
+
+Equation: 100/3/2
+Infix: 100/3/2, Postfix: 100 3 / 2 / 
+Result: 16
+
+Equation: 100%3
+Infix: 100%3, Postfix: 100 3 % 
+Result: 1
+
